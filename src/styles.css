@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+    color: gold;
+    background: linear-gradient(rgb(87, 85, 85), rgb(99, 1, 99));
+    font-family:monospace;
+}
+
+button{
+    color: gold;
+    background-color: brown;
+    font-size: 2em;
+    font-family:monospace;
+    border-radius: 5%;
+    border: 5px sandybrown ridge;
+}
+
+button:hover{
+    background-color: red;
+    transition: all 0.7s;
+}
+
+a{
+    text-decoration: none;
+    font-size: large;
+    font-family: monospace;
+    color: gold;
+}
